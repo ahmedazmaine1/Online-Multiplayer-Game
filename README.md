@@ -1,8 +1,6 @@
 ## Online Multiplayer Game (OMG)
 
-## SENG 300 - W25 Project
-
-Welcome to our software engineering project for **SENG 300 - Winter 2025**. This application is a multi-game platform 
+This application is a multi-game platform 
 that supports classic games like Checkers, Connect Four, and Tic-Tac-Toe, with features such as authentication, 
 matchmaking, a leaderboard system, networking, and a modern GUI.
 
